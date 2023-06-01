@@ -1,0 +1,4 @@
+
+public enum PCBState {
+    READY,BLOCKED,RUNNING,FINISHED
+}
